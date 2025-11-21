@@ -1,0 +1,62 @@
+{
+  "version": "5",
+  "remote": {
+    "https://edge.netlify.com/": "fd941d61d88673d5f28aab283fb86fcc50f08a3bc80ee5470498fcfa88c65cfb",
+    "https://edge.netlify.com/bootstrap/config.ts": "6a2ce0e544e15e8f8883a5c18da5948e37fd0f2619f68cb31f3af53c51817025",
+    "https://edge.netlify.com/bootstrap/context.ts": "72496497b40d9e808f419efc764ecb438952a32f61ed94cd54952fc59f17f69d",
+    "https://edge.netlify.com/bootstrap/cookie.ts": "8b0baae708989ca183c6f3b4ab3d029e6abcbc2e43f93edeb0ff447b3bbc3a05",
+    "https://edge.netlify.com/bootstrap/edge_function.ts": "b8253e86aa83c67341f5cfedeba5049d77fbf84dcab7eceff7566b7728ae9b39",
+    "https://edge.netlify.com/bootstrap/globals/types.ts": "eaa6148ded3121d8dee62dd91c86e7fe76601df0f3ca8d7962243a30f4c8935f"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@clerk/clerk-react@^5.53.8",
+        "npm:@headlessui/react@^2.2.9",
+        "npm:@hookform/resolvers@^3.10.0",
+        "npm:@netlify/plugin-nextjs@^5.14.7",
+        "npm:@radix-ui/react-dialog@^1.1.14",
+        "npm:@radix-ui/react-label@^2.1.3",
+        "npm:@radix-ui/react-progress@^1.1.7",
+        "npm:@radix-ui/react-select@2",
+        "npm:@radix-ui/react-slot@^1.2.0",
+        "npm:@radix-ui/react-switch@^1.2.5",
+        "npm:@radix-ui/react-tabs@^1.1.12",
+        "npm:@sentry/nextjs@^9.16.1",
+        "npm:@syncfusion/ej2-react-grids@^29.2.5",
+        "npm:@types/estree@^1.0.7",
+        "npm:@types/node@20",
+        "npm:@types/react-dom@18",
+        "npm:@types/react-table@^7.7.20",
+        "npm:@types/react@18",
+        "npm:appwrite@^17.0.2",
+        "npm:chart.js@^4.4.8",
+        "npm:class-variance-authority@0.7",
+        "npm:clsx@^2.1.1",
+        "npm:eslint-config-next@14.2.3",
+        "npm:eslint@8",
+        "npm:git@~0.1.5",
+        "npm:jspdf-autotable@^5.0.2",
+        "npm:jspdf@^3.0.3",
+        "npm:lucide-react@0.374",
+        "npm:next@14.2.3",
+        "npm:node-appwrite@^12.0.1",
+        "npm:postcss@8",
+        "npm:query-string@^9.1.1",
+        "npm:react-chartjs-2@^5.2.0",
+        "npm:react-countup@^6.5.3",
+        "npm:react-dom@^18.3.1",
+        "npm:react-hook-form@^7.55.0",
+        "npm:react-icons@^5.5.0",
+        "npm:react-router-dom@^7.9.5",
+        "npm:react-table@^7.8.0",
+        "npm:react@^18.3.1",
+        "npm:tailwind-merge@^2.3.0",
+        "npm:tailwindcss-animate@^1.0.7",
+        "npm:tailwindcss@^3.4.1",
+        "npm:typescript@5",
+        "npm:zod@^3.24.2"
+      ]
+    }
+  }
+}

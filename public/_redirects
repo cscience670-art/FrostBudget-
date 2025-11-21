@@ -1,0 +1,4 @@
+/icons/*   /icons/:splat  200
+/assets/*  /assets/:splat  200
+/*         /index.html    200
+/*         /.netlify/functions/next  200
