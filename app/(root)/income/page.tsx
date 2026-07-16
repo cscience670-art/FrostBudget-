@@ -1,5 +1,6 @@
 // app/incomes/page.tsx
 import React from "react";
+
 import HeaderBox from "@/components/HeaderBox";
 import RecentIncomes from "@/components/RecentIncomes";
 import { getLoggedInUser } from "@/lib/actions/user.actions";
