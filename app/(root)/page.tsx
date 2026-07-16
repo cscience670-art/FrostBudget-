@@ -1,5 +1,6 @@
 
 import React from "react"; 
+
 import HeaderBox from "@/components/HeaderBox"; 
 import BoiteDeSoldeTotale from "@/components/BoiteDeSoldeTotale"; 
 import { RightSidebar } from "@/components/RightSidebar"; 
