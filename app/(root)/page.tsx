@@ -1,4 +1,5 @@
 import React from "react"; 
+
 import HeaderBox from "@/components/HeaderBox"; 
 import BoiteDeSoldeTotale from "@/components/BoiteDeSoldeTotale"; 
 import AgeOfIce from "@/components/AgeOfIce"; 
