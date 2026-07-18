@@ -1,4 +1,5 @@
 import React from "react";
+
 import HeaderBox from "@/components/HeaderBox";
 import RecentBudgets from "@/components/RecentBudgets";
 import { getLoggedInUser } from "@/lib/actions/user.actions";
