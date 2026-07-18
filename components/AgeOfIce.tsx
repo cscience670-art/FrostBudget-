@@ -8,6 +8,7 @@ interface AgeOfIceProps {
   days: number; // Nombre de jours que vit votre argent avant d'être dépensé
 }
 
+
 const AgeOfIce = ({ days }: AgeOfIceProps) => {
   // 1. Détermination de l'état de l'iceberg visuellement selon le nombre de jours
   let icebergStatus = {
