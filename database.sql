@@ -1,4 +1,5 @@
 -- 1. جدول المستخدمين (Users)
+
 CREATE TABLE users (
     id VARCHAR(255) PRIMARY KEY,
     username VARCHAR(64) NOT NULL,
